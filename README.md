@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Manuel
 
-<!--
-**MSRudolph/MSRudolph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD Candidate at EPFL in Lausanne, Switzerland 🇨🇭  
+Currently I am based in New York City as a student researcher at CCQ, Flatiron Institute 🇺🇸
 
-Here are some ideas to get you started:
+My main focus are numerical tools for simulating quantum computers, preferably on my laptop 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+   +-----------------------+  
+   |.---------------------.|  
+   ||                     ||  
+   || PauliPropagation.jl ||  
+   ||                     ||  
+   ||                     ||  
+   |+---------------------+|
+   +-..-----------------..-+
+   .-----------------------.
+  / /=====================\ \
+ / /========?????????======\ \
+/_____________________________\
+\_____________________________/
+```
+
+Perhaps check out [PauliPropagation.jl](https://github.com/MSRudolph/PauliPropagation.jl), a library for simulating quantum circuits with Pauli-path methods.
+
+If you are interested in my publications, you can find them on my [Google Scholar](https://scholar.google.com/citations?user=rzXS-bMAAAAJ&hl=en).
+
+Feel free to reach out to me via:  
+Manuel.Rudolph@epfl.ch  
+[LinkedIn](https://www.linkedin.com/in/manuel-rudolph/)  
+[Bluesky](https://bsky.app/profile/quantummanuel.bsky.social)  
+[Twitter](https://x.com/QuantumManuel)
