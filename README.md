@@ -1,9 +1,8 @@
 ## Hi, I'm Manuel
 
 I am a PhD Candidate at EPFL in Lausanne, Switzerland 🇨🇭  
-Currently I am based in New York City as a student researcher at CCQ, Flatiron Institute 🇺🇸
 
-My main focus are numerical tools for simulating quantum computers, preferably on my laptop 💻
+I develop numerical tools for simulating quantum computers, preferably on my laptop 💻
 
 ```
    +-----------------------+  
